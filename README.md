@@ -7,3 +7,10 @@ Right clicking on a particle entry will allow you to import/export that particle
 Please let me know if there are any issues with the program at: @Struggleton on Twitter / Struggleton#4071 on Discord / or opening an issue here on Github! Commits are welcome, especially if they fix bugs and or introduce new functionality. 
 
 Check out the GNT4 community on Discord where much work is being done to mod the game to new leaps and bounds: https://discord.gg/DZfVuJ7
+
+Some credits go to: 
+  Ploaj: Initial research on the particle data
+  TGE: His amazing work on the BEReader class; been using this class for years :)
+  TechnicPlay: His implementation of the BitArray; standard bit arrays are finicky with unsigned values, this one is pretty great
+  
+If I missed you, please let me know. Please enjoy modding GNT4!
