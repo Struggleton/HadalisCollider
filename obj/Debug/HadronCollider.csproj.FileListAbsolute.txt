@@ -1,0 +1,10 @@
+C:\Users\Strug\source\repos\HadronCollider\bin\Debug\HadronCollider.exe.config
+C:\Users\Strug\source\repos\HadronCollider\bin\Debug\HadronCollider.exe
+C:\Users\Strug\source\repos\HadronCollider\bin\Debug\HadronCollider.pdb
+C:\Users\Strug\source\repos\HadronCollider\obj\Debug\HadronCollider.csprojAssemblyReference.cache
+C:\Users\Strug\source\repos\HadronCollider\obj\Debug\HadronCollider.Form1.resources
+C:\Users\Strug\source\repos\HadronCollider\obj\Debug\HadronCollider.Properties.Resources.resources
+C:\Users\Strug\source\repos\HadronCollider\obj\Debug\HadronCollider.csproj.GenerateResource.cache
+C:\Users\Strug\source\repos\HadronCollider\obj\Debug\HadronCollider.csproj.CoreCompileInputs.cache
+C:\Users\Strug\source\repos\HadronCollider\obj\Debug\HadronCollider.exe
+C:\Users\Strug\source\repos\HadronCollider\obj\Debug\HadronCollider.pdb
